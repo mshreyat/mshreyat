@@ -37,11 +37,6 @@ I build intelligent applications using **Machine Learning, Computer Vision, RAG 
 
 ## 🚀 Featured Projects
 
-### 🧠 OmniRetrieval — Enterprise RAG Engine
-Retrieval-Augmented Generation system with semantic search, vector embeddings and LLM-powered responses.
-
-`FastAPI` `PostgreSQL` `pgvector` `Hugging Face` `RAG`
-
 ### 🖐️ Mudra Recognition System
 Computer vision system for recognizing classical Indian hand gestures using hand-landmark based machine learning.
 
